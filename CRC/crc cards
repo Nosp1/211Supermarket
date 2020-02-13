@@ -5,12 +5,13 @@ Pick a line
 ------------------------------------------------------------------------
 
 Shopping Cart
-
+Random number of products
+List of Integers? or static number
 
 ------------------------------------------------------------------------
 
 Checkout point
-
+Time per customer * times items in Cart (mean time + items)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +21,8 @@ Queue
 ------------------------------------------------------------------------
 
 Event
-
-
+Customer enters store
+Customer picks random items
+Customer wants to leave -> find cashier
 
 ------------------------------------------------------------------------
